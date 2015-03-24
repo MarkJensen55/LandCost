@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\LandCost\LandCost\bin\Debug\LandCost.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\LandCost\LandCost\bin\Debug\LandCost.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\LandCost\LandCost\bin\Debug\LandCost.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\LandCost\LandCost\obj\Debug\LandCost.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\LandCost\LandCost\obj\Debug\LandCost.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\LandCost\LandCost\obj\Debug\LandCost.pdb
